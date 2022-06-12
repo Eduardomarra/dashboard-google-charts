@@ -1,3 +1,13 @@
+<div align="center">
+  <img
+    width="768px"
+    height="auto"
+    alt="Homepage do projeto"
+    title="Home do blog"
+    src="./public/dashboard.JPG"
+  />
+</div>
+
 ## 🚀 Tecnologias
 
 ---
