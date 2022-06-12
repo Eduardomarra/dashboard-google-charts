@@ -1,9 +1,13 @@
-import React from 'react';
+import { Dashboard } from './components/Dashboard';
+
+import { Wrapper } from './styles';
 
 function App() {
   return (
     <>
-        <h1>Hello World</h1>
+        <Wrapper>
+            <Dashboard />
+        </Wrapper>
     </>
   );
 }

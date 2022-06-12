@@ -12,7 +12,7 @@ const GlobalStyles = createGlobalStyle`
             scroll-behavior: smooth;
         }
         body {
-            background-color: ${theme.colors.dark};
+
         }
         button {
             cursor: pointer;
